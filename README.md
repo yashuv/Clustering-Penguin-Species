@@ -2,7 +2,9 @@
 Use unsupervised learning skills to reduce dimensionality and identify clusters in the antarctic penguin dataset
 
 ![Penguin Species](https://imgur.com/orZWHly.png)
+
 source: @allison_horst 
+
 Read Further at: https://github.com/allisonhorst/penguins
 
 **The dataset consists of 5 columns.**
@@ -86,7 +88,7 @@ While the dataset lacks labeled instances, it presents an opportunity to apply u
 
 ### 2. Dealing with null values and outliers
 
-- using the information you gained in the previous step, identify outliers and null values and remove them.
+- using the information gained in the previous step, identify outliers and null values and remove them.
 
 ### 3. Perform preprocessing steps on the dataset to create dummy variables
 
