@@ -1,7 +1,7 @@
 # Clustering-Penguin-Species
 Use unsupervised learning skills to reduce dimensionality and identify clusters in the antarctic penguin dataset
 
-![Penguin Species](https://imgur.com/orZWHly.png)
+![Artwork by @allison_horst](https://imgur.com/orZWHly.png)
 
 source: @allison_horst 
 
@@ -84,7 +84,7 @@ While the dataset lacks labeled instances, it presents an opportunity to apply u
 ### 1. Loading and examining the dataset
 
 - create a pandas DataFrame and examine `"data/penguins.csv"` for data types and missing values. 
-- store the DataFrame in `penguins_df` variable.
+- store the DataFrame in `df_penguins` variable.
 
 ### 2. Dealing with null values and outliers
 
